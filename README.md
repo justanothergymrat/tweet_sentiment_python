@@ -1090,3 +1090,11 @@ plt.suptitle("Compound Twitter Sentiment Analysis (via VADER)",y=1)
 
 ![png](output_10_2.png)
 
+
+3 Observable Trends:
+
+1. The error bars of the barplot are all very close to eachother (close to the limits of -1 & +1 per each news outlet) suggesting that all 5 outlets have the same polarity
+
+2. The closest to neutral compound score is actually FoxNews & the furthest from netural compound score is the BBC which is interesting cause FoxNews has a stigma of leaning one particular way whereas BBC's stigma is being british (neutral/flat affect)
+
+3. As displayed in the "Tweets Ago" Polarity scatter plot, each outlet tweets alot and their sentiment is all over the place, suggesting that news is frequent and its presentation/subject is varied
